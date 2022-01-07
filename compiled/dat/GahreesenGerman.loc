@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
-	<age name="Gahreesen">
-		<set name="Journals">
-			<element name="GahreesenInfo">
-				<translation language="German"><![CDATA[<cover src="xGahreesenInfoJournalCover_eng*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>Analyse
+    <age name="Gahreesen">
+        <set name="Journals">
+            <element name="GahreesenInfo">
+                <translation language="German"><![CDATA[<cover src="xGahreesenInfoJournalCover_eng*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>Analyse
 
 <p align=left>Autor: Simpson (Abschrift von Sprachrekorder)
 
@@ -143,9 +143,9 @@ Wo wir gerade von Verbindungen sprechen - Dieses gesamte Gebäude rotiert ebenfa
 Ich frage mich nur, wo die zentralen Forschungslabors waren. Oder noch wichtiger, wo haben alle geschlafen oder gegessen? 
 
 ]]></translation>
-			</element>
-			<element name="GahreesenWallHelp">
-				<translation language="German"><![CDATA[<cover src="xGarrisonWallJournalCover_ger*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=48><p align=center>
+            </element>
+            <element name="GahreesenWallHelp">
+                <translation language="German"><![CDATA[<cover src="xGarrisonWallJournalCover_ger*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=48><p align=center>
 
 <p align=left>Die Gahreesen-Übungswand
 
@@ -189,9 +189,9 @@ Sobald man oben angekommen war, wurde mittels Anzug und einem Panel in der Wand 
 
 Sobald eine Seite oben angekommen war, wurde das Labyrinth für den armen Kerl angezeigt, der noch nach oben musste. Es sieht auch so aus, als wären die Blöcke auch in den Beobachtungsräumen und im Erhalter-Nexus angezeigt worden. Der Verlierer musste nach oben, dann die gleiche Verbindung wie der Sieger benutzen, den Anzug loswerden und zu Runde zwei antreten. Vielleicht wurde er vorher noch von seinem Vorgesetzten zusammengestaucht. Wer weiß? 
 ]]></translation>
-			</element>
-			<element name="KIJournal">
-				<translation language="German"><![CDATA[<cover src="xKIJournalCover*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>Die KI
+            </element>
+            <element name="KIJournal">
+                <translation language="German"><![CDATA[<cover src="xKIJournalCover*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>Die KI
 
 <p align=left>Basisfunktionen - D'ni #3 auf der Rückseite aller Geräte ... 3 Funktionen? Es gibt mit Sicherheit mehr. Hauptfunktionen? Wie dem auch sei, es ist ein praktischer.
 
@@ -238,14 +238,118 @@ KI-zu-KI: Jeder einzelne KI kann zur spezifischen Verfolgung aufgezeichnet werde
 
 Gruppen: Die KI erkennt auch Gruppen, die in irgendeiner Weise mit dem Nexus verbunden sind. Es scheint möglich, dass mit dieser Funktion die Stadtteil-Liste unterstüzt werden kann, sofern man es entsprechend konfigurieren kann.
 ]]></translation>
-			</element>
-		</set>
-		<set name="TextObjects">
-			<element name="RetrieveKI">
-				<translation language="German">BITTE
+            </element>
+        </set>
+        <set name="TextObjects">
+            <element name="RetrieveKI">
+                <translation language="German">BITTE
 HOLEN SIE SICH
 IHRE KI</translation>
-			</element>
-		</set>
-	</age>
+            </element>
+        </set>
+        <set name="Wall">
+            <element name="Init1">
+                <translation language="German">Sind alle bereit für ein neues Wall Game?</translation>
+            </element>
+            <element name="Init2">
+                <translation language="German">Ein neues Wall Game wurde initialisiert und wir sind gespannt was sich die Konkurrenten ausdenken.</translation>
+            </element>
+            <element name="Init3">
+                <translation language="German">Willkommen zum Wall Game. Das Spiel wird jetzt vorbereitet. Wer wird dieses Match gewinnen?</translation>
+            </element>
+            <element name="Entry1">
+                <translation language="German">Die Labyrinthe sind angelegt und die beiden Teams betreten nun die Arena.</translation>
+            </element>
+            <element name="Entry2">
+                <translation language="German">Beide Seiten haben ihre Blocker gesetzt und machen sich jetzt auf den Weg zum Spielbereich.</translation>
+            </element>
+            <element name="Entry3">
+                <translation language="German">Lila und Gelb sind jetzt auf dem Weg zur Wall.</translation>
+            </element>
+            <element name="Start1">
+                <translation language="German">Beide Teams haben das Klettergebiet betreten. Lasst das Spiel beginnen!</translation>
+            </element>
+            <element name="Start2">
+                <translation language="German">Die Spieler sind bereit. Los, los, los, los!</translation>
+            </element>
+            <element name="Start3">
+                <translation language="German">Und da sind sie. Wer wird dieses Spiel gewinnen?</translation>
+            </element>
+            <element name="YWin1">
+                <translation language="German">Ein gelber Spieler hat gewonnen. Herzliche Glückwünsche!</translation>
+            </element>
+            <element name="YWin2">
+                <translation language="German">Gelb besiegt Lila. Was für ein spektakuläres Spiel!</translation>
+            </element>
+            <element name="YWin3">
+                <translation language="German">Fantastisch! Ein gelber Spieler hat seinen Gegner in einem Mauerspiel besiegt.</translation>
+            </element>
+            <element name="PWin1">
+                <translation language="German">Ein lila Spieler hat gewonnen. Herzliche Glückwünsche!</translation>
+            </element>
+            <element name="PWin2">
+                <translation language="German">Lila besiegt Gelb. Was für ein spektakuläres Spiel!</translation>
+            </element>
+            <element name="PWin3">
+                <translation language="German">Fantastisch! Ein lila Spieler hat seinen Gegner in einem Mauerspiel besiegt.</translation>
+            </element>
+            <element name="YQuit1">
+                <translation language="German">Oh nein, ein gelber Spieler hat aufgegeben!</translation>
+            </element>
+            <element name="YQuit2">
+                <translation language="German">Gelb kann dem Druck nicht standhalten und gibt auf.</translation>
+            </element>
+            <element name="YQuit3">
+                <translation language="German">Was ist das? Ein gelber Spieler ist gegangen. Dies lässt Lila als Gewinner übrig.</translation>
+            </element>
+            <element name="PQuit1">
+                <translation language="German">Oh nein, ein lila Spieler hat aufgegeben!</translation>
+            </element>
+            <element name="PQuit2">
+                <translation language="German">Lila kann dem Druck nicht standhalten und gibt auf.</translation>
+            </element>
+            <element name="PQuit3">
+                <translation language="German">Was ist das? Ein lila Spieler ist gegangen. Damit bleibt Gelb als Sieger.</translation>
+            </element>
+            <element name="Falloff1">
+                <translation language="German">Autsch, das sah aus als hätte es weh getan!</translation>
+            </element>
+            <element name="Falloff2">
+                <translation language="German">Nein, nein, nein, nein, und noch einmal!</translation>
+            </element>
+            <element name="Falloff3">
+                <translation language="German">Ähm... ihr sollt um die Blocker herum klettern, wisst ihr?</translation>
+            </element>
+            <element name="Falloff4">
+                <translation language="German">Boom!</translation>
+            </element>
+            <element name="Falloff5">
+                <translation language="German">Ich bin sicher es geht besser als das!</translation>
+            </element>
+            <element name="Falloff6">
+                <translation language="German">Uh, beinahe...</translation>
+            </element>
+            <element name="Falloff7">
+                <translation language="German">Upps, das war nicht der richtige Weg!</translation>
+            </element>
+            <element name="Falloff8">
+                <translation language="German">Oh, nicht schon wieder!</translation>
+            </element>
+            <element name="Falloff9">
+                <translation language="German">Es gefällt euch von dieser Wall zu fallen, oder?</translation>
+            </element>
+            <element name="Falloff10">
+                <translation language="German">Okay, das geht gerade in die völlig falsche Richtung.</translation>
+            </element>
+            <element name="Falloff11">
+                <translation language="German">Na los, irgendjemand wird doch wohl mal gewinnen.</translation>
+            </element>
+            <element name="Falloff12">
+                <translation language="German">Schaut mal, da ist ein schöner Kristallknopf zum Aufgeben weiter unten. Seid ihr sicher, dass ihr den nicht nutzen wollt?</translation>
+            </element>
+            <element name="MatchDuration">
+                <translation language="German">Vergangene Zeit: %1s</translation>
+            </element>
+        </set>
+    </age>
 </localizations>
