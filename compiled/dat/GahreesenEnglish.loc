@@ -344,6 +344,15 @@ KI</translation>
             <element name="Falloff12">
                 <translation language="English">Look, there's a shiny crystal button for giving up at the bottom. Are you sure you don't want to use it?</translation>
             </element>
+            <element name="Falloff13">
+                <translation language="English">This may be a bit of a stretch...but have you tried moving the slider?</translation>
+            </element>
+            <element name="Falloff14">
+                <translation language="English">Now please tell me this maze isn't going up on anyone's modern art Instagrams?</translation>
+            </element>
+            <element name="Falloff15">
+                <translation language="English">Don't get lost now. This isn't Minkata.</translation>
+            </element>
             <element name="MatchDuration">
                 <translation language="English">Elapsed Time: %1s</translation>
             </element>
